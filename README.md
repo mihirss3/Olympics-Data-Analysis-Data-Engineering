@@ -64,8 +64,8 @@ Brazil holds the 12º position.
 ![image](https://github.com/user-attachments/assets/4fd70e16-196f-4ad1-82f8-2bb9d068184c)
 
 
+![image](https://github.com/user-attachments/assets/5184642c-f64b-4834-af4f-ae31aca7f707)
 
-![SQL script 1(2)](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/82b8fdab-8f34-4156-b266-5035ee90f136)
 
 4. Counting the number of athletes by country
 
