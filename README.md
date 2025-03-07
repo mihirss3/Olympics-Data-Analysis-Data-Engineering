@@ -5,8 +5,6 @@
 Dataset: teams, disciplines and athletes taking part in the 2021 Tokyo Olympics 
 https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
 
-the project is based on Darshil Parmar youtube channel
-
 **The pipeline**
 
 ![Olympics flow](https://github.com/user-attachments/assets/87f177f6-8cfa-473f-8667-74329bb5d488)
@@ -50,7 +48,8 @@ The visualization the average number of entries by gender for each discipline
 
 Athletics, Football and Handball had the most significant number of athletes, following Volleyball.
 
-![image](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/66439f5e-720d-460f-86bb-3c226fadce6c)
+![image](https://github.com/user-attachments/assets/5f711db6-3fe9-436e-832f-01c88930614a)
+
 
 
 ![SQL script 1](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/80140b67-24c8-48ce-9004-18bd588ee36d)
