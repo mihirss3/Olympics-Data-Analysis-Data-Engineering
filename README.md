@@ -36,7 +36,8 @@ Artistic Swimming, Athletics and Wrestling are in the top 3 in all disciplines.
 
 
 
-![SQL script 1(6)](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/20c0fd8d-a95f-4206-96e0-7bb58e808fa4)
+![image](https://github.com/user-attachments/assets/1820af25-7602-41b3-be0c-f5e24b02ebbc)
+
 
 
 The visualization the average number of entries by gender for each discipline
