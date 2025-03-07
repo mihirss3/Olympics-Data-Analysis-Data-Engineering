@@ -32,7 +32,8 @@ Following, use Synapse Analytics tool to run SQL queries on transformed data and
 
 Artistic Swimming, Athletics and Wrestling are in the top 3 in all disciplines.
 
-![image](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/f91abe52-6f2c-415d-aaaa-34e438cebc0d)
+![image](https://github.com/user-attachments/assets/544a066d-e5fa-4588-a524-6489c7d2414e)
+
 
 
 ![SQL script 1(6)](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/20c0fd8d-a95f-4206-96e0-7bb58e808fa4)
