@@ -51,8 +51,8 @@ Athletics, Football and Handball had the most significant number of athletes, fo
 ![image](https://github.com/user-attachments/assets/5f711db6-3fe9-436e-832f-01c88930614a)
 
 
+![image](https://github.com/user-attachments/assets/34535a69-48d6-4ed7-8473-803cbbfea4ea)
 
-![SQL script 1](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/80140b67-24c8-48ce-9004-18bd588ee36d)
 
 3. Analyzing the medals
 
