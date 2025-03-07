@@ -9,7 +9,8 @@ the project is based on Darshil Parmar youtube channel
 
 **The pipeline**
 
-![image](https://github.com/lauranonato/data-engineer-pipeline-olympics/assets/56266061/ca4b2d06-4b3e-422d-bcd5-6aae746ab500)
+![Olympics flow](https://github.com/user-attachments/assets/87f177f6-8cfa-473f-8667-74329bb5d488)
+
 
 **Step 1: Data Ingestion**
 
