@@ -42,7 +42,8 @@ Artistic Swimming, Athletics and Wrestling are in the top 3 in all disciplines.
 
 The visualization the average number of entries by gender for each discipline
 
-![SQL script 1(5)](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/6b6b4e0b-e1da-4b43-9048-e5db52a0f816)
+![image](https://github.com/user-attachments/assets/50d7c519-dce5-4e9e-9a2d-aa11e619baed)
+
 
 
 2. Counting the number of brazilian athletes by discipline
