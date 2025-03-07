@@ -61,7 +61,8 @@ USA and China secured the highest number of gold medals, 39 and 38 respectively.
 Following by Japan with 27.
 Brazil holds the 12º position.
 
-![image](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/d1c62950-6932-4115-a3e2-79eceb53c765)
+![image](https://github.com/user-attachments/assets/4fd70e16-196f-4ad1-82f8-2bb9d068184c)
+
 
 
 ![SQL script 1(2)](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/82b8fdab-8f34-4156-b266-5035ee90f136)
