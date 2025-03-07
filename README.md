@@ -16,7 +16,8 @@ the project is based on Darshil Parmar youtube channel
 
 Download the dataset in csv format, ingest it on this github repository and extract the data from the API (raw format) using Azure Data Factory tool, buiding a data flow and loading it into Azure Data Lake storage:
 
-![image](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/34d23292-3665-489f-9c4e-1ac18ff01101)
+![image](https://github.com/user-attachments/assets/3035960e-0a2c-466e-adc2-01dc051eaab7)
+
 
 **Step 2: Data transformation**
 
